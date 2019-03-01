@@ -1,5 +1,4 @@
 # hello-world
-dummy project
 
 yaz tahtaya al haftaya
-scma 1gun oder hesabi
+scma 1gun oeder hesabi
